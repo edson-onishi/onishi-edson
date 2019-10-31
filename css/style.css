@@ -17,13 +17,14 @@ body{
 
 .margin{
     padding-bottom: 30px;
+    padding-top: 10px;
 }
 
 .skills{
     font-size: 70px;
     background-color: #151515;
     color: FFFFFF;
-    margin-bottom: 10px;
+    
     
 }
 
@@ -38,6 +39,8 @@ body{
 
 
 .bg-footer{
-    background-color: black;
-    color: white;
+        background-color: #000;
+        color: #F2FFFC;
+        padding: 20px;
+        text-align: center;
 }
